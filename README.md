@@ -16,17 +16,17 @@ We also include gender_submission.csv, a set of predictions that assume all and 
 Download link: https://www.kaggle.com/c/titanic/data
 
 Libraries:
-pandas
-matplotlib
-seaborn
-scikit-learn
+pandas,
+matplotlib,
+seaborn,
+scikit-learn,
 
 Algorithms:
-Logistic Regression
-Decision Tree
-Random Forest
-Extra Tress
-XGBoost
-LightGBM
-CatBoost
+Logistic Regression,
+Decision Tree,
+Random Forest,
+Extra Tress,
+XGBoost,
+LightGBM,
+CatBoost,
 Best Model Accuracy: 82.00
